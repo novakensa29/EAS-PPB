@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/novak/OneDrive/Dokumen/Polban/Semester 4/Mobile Programming/EAS-Mobile/EAS-PPB/Sign News/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1085" />
+        <entry key="..\:/Users/novak/OneDrive/Dokumen/Polban/Semester 4/Mobile Programming/EAS-Mobile/EAS-PPB/Sign News/app/src/main/res/drawable/bg_home_curve.xml" value="0.1085" />
+        <entry key="..\:/Users/novak/OneDrive/Dokumen/Polban/Semester 4/Mobile Programming/EAS-Mobile/EAS-PPB/Sign News/app/src/main/res/drawable/bg_home_wave.xml" value="0.1085" />
+        <entry key="..\:/Users/novak/OneDrive/Dokumen/Polban/Semester 4/Mobile Programming/EAS-Mobile/EAS-PPB/Sign News/app/src/main/res/drawable/border.xml" value="0.1085" />
+        <entry key="..\:/Users/novak/OneDrive/Dokumen/Polban/Semester 4/Mobile Programming/EAS-Mobile/EAS-PPB/Sign News/app/src/main/res/drawable/ic_date.xml" value="0.1085" />
+        <entry key="..\:/Users/novak/OneDrive/Dokumen/Polban/Semester 4/Mobile Programming/EAS-Mobile/EAS-PPB/Sign News/app/src/main/res/drawable/ic_headlines.xml" value="0.1085" />
+        <entry key="..\:/Users/novak/OneDrive/Dokumen/Polban/Semester 4/Mobile Programming/EAS-Mobile/EAS-PPB/Sign News/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1085" />
+        <entry key="..\:/Users/novak/OneDrive/Dokumen/Polban/Semester 4/Mobile Programming/EAS-Mobile/EAS-PPB/Sign News/app/src/main/res/layout/activity_detail_news.xml" value="0.15806159420289856" />
+        <entry key="..\:/Users/novak/OneDrive/Dokumen/Polban/Semester 4/Mobile Programming/EAS-Mobile/EAS-PPB/Sign News/app/src/main/res/layout/activity_main.xml" value="0.15806159420289856" />
+        <entry key="..\:/Users/novak/OneDrive/Dokumen/Polban/Semester 4/Mobile Programming/EAS-Mobile/EAS-PPB/Sign News/app/src/main/res/layout/activity_web_view.xml" value="0.15806159420289856" />
+        <entry key="..\:/Users/novak/OneDrive/Dokumen/Polban/Semester 4/Mobile Programming/EAS-Mobile/EAS-PPB/Sign News/app/src/main/res/layout/card_country.xml" value="0.15806159420289856" />
+        <entry key="..\:/Users/novak/OneDrive/Dokumen/Polban/Semester 4/Mobile Programming/EAS-Mobile/EAS-PPB/Sign News/app/src/main/res/layout/item_main_grid.xml" value="0.15806159420289856" />
+        <entry key="..\:/Users/novak/OneDrive/Dokumen/Polban/Semester 4/Mobile Programming/EAS-Mobile/EAS-PPB/Sign News/app/src/main/res/layout/list_news.xml" value="0.3333333333333333" />
+        <entry key="..\:/Users/novak/OneDrive/Dokumen/Polban/Semester 4/Mobile Programming/EAS-Mobile/EAS-PPB/Sign News/app/src/main/res/layout/news_item.xml" value="0.15806159420289856" />
+        <entry key="..\:/Users/novak/OneDrive/Dokumen/Polban/Semester 4/Mobile Programming/EAS-Mobile/EAS-PPB/Sign News/app/src/main/res/menu/menu_search.xml" value="0.17552083333333332" />
+        <entry key="..\:/Users/novak/OneDrive/Dokumen/Polban/Semester 4/Mobile Programming/EAS-Mobile/EAS-PPB/Sign News/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.1085" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
